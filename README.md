@@ -18,3 +18,7 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+| A   | B   |
+| --- | --- |
+| C\| | D   |
