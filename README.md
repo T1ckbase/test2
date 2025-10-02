@@ -4,6 +4,10 @@
 
 `Ctrl` + `c`
 
+> blockquote
+> 
+> This is the quoted text.
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
